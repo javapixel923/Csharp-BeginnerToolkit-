@@ -2,9 +2,9 @@ using System;
 
 namespace BeginnerToolkit
 {
-    class ToolkitTests
+    public static class ToolkitTests
     {
-        static void Main(string[] args)
+        public static void RunTests()
         {
             Console.WriteLine("Running Toolkit Tests...");
 
