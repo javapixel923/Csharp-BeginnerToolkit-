@@ -1,0 +1,24 @@
+{
+  "profiles": {
+    "BeginnerToolkit-Demo": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "applicationArguments": "--demo"
+    },
+    "BeginnerToolkit-Test": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "applicationArguments": "--test"
+    },
+    "BeginnerToolkit-Production": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "applicationArguments": "--prod"
+    },
+    "BeginnerToolkit-Interactive": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "applicationArguments": "--interactive"
+    }
+  }
+}
