@@ -4,8 +4,31 @@ A simple C# console toolkit for beginners to practice core programming concepts.
 
 ---
 
-1. Prompt Used
-> “Give me a step‑by‑step guide to build a beginner‑friendly C# console toolkit with reusable functions.”
+## ✨ Features
+- Calculate averages of integer arrays
+- Reverse strings
+- Square numbers
+- Check if a number is even
+- Simple console output for quick feedback
+- Built with C# and .NET’s safety and productivity guarantees
+
+---
+
+##  Requirements
+- .NET SDK (6.0 LTS or 8.0)
+- Editor: Acode (Android), VS Code, or Rider
+- Git (optional, for version control)
+
+---
+
+## ⚙️ Setup Instructions
+```bash
+# Clone this repository
+git clone https://github.com/YourUsername/BeginnerToolkit
+cd BeginnerToolkit
+
+# Run the app
+dotnet run
 
 ---
 
@@ -13,24 +36,6 @@ A simple C# console toolkit for beginners to practice core programming concepts.
 - Microsoft Learn: C# Fundamentals
 - FreeCodeCamp C# Basics
 - Dotnet CLI Documentation
-
----
-
-3. AI’s Response Summary
-The AI scaffolded the project structure (Program.cs, Toolkit.cs, ToolkitTests.cs, .csproj, .gitignore, README.md), explained how to upload files manually on GitHub mobile, and provided commit messages for clean version history.
-
----
-
-4. Problem Addressed
-> “The AI helped me scaffold the setup and fix an import error by merging Program.cs and Toolkit.cs into one file for quick testing on dotnetfiddle.”
-
----
-
-5. Evaluation
-The guidance was highly practical:
-- Step‑by‑step instructions matched my mobile workflow.  
-- Ready‑to‑paste commit messages made my repo professional.  
-- Testing examples ensured my Toolkit functions worked correctly.  
 
 ---
 
@@ -126,6 +131,6 @@ Helpful links:
 
 ---
 
-✍️ Author
+Author
 BeginnerToolkit created by Nikita, as part of her journey in building practical, educational C# projects.
-`
+
