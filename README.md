@@ -25,7 +25,7 @@ Setup Instructions
 `bash
 
 Clone this repository
-git clone https://github.com/YourUsername/BeginnerToolkit
+git clone https://github.com/javapixel923/Csharp-BeginnerToolkit-.git
 cd BeginnerToolkit
 
 Run the app
